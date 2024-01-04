@@ -1,0 +1,4 @@
+[{"book_id":11, "book_name":"FOURTH WING", "book_author_id":17, "book_publisher_id":1, "book_price":16.99, "book_isbn":"978-1649374042", "book_nl":"0", "created_date":"2023-12-29 11:21:14", "updated_date":"2023-12-29 11:21:14"},
+ {"book_id":12, "book_name":"IRON FLAME", "book_author_id":17, "book_publisher_id":1, "book_price":19.16, "book_isbn":"978-1649374172", "book_nl":"0", "created_date":"2023-12-29 11:21:14", "updated_date":"2023-12-29 11:21:14"},
+ {"book_id":13, "book_name":"THE HEAVEN & EARTH GROCERY STORE", "book_author_id":18, "book_publisher_id":2, "book_price":16.99, "book_isbn":"978-0593422946", "book_nl":"1", "created_date":"2023-12-29 11:21:14", "updated_date":"2023-12-29 11:21:14"},
+ {"book_id":14, "book_name":"THE EXCHANGE", "book_author_id":19, "book_publisher_id":3, "book_price":18.77, "book_isbn":"978-0385548953", "book_nl":"1", "created_date":"2023-12-29 11:21:14", "updated_date":"2023-12-29 11:21:14"}]

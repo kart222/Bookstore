@@ -1,0 +1,3 @@
+[{"publisher_id":1, "publisher_name":"Penguin Publishing", "created_date":"2023-12-29 19:23:21", "updated_date":"2023-12-29 19:23:21", "publisher_address_id":1},
+ {"publisher_id":2, "publisher_name":"Riverhead Books", "created_date":"2023-12-29 19:23:21", "updated_date":"2023-12-29 19:23:21", "publisher_address_id":1},
+ {"publisher_id":3, "publisher_name":"Doubleday", "created_date":"2023-12-29 19:23:21", "updated_date":"2023-12-29 19:23:21", "publisher_address_id":0}]
